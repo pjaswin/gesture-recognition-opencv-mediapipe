@@ -34,15 +34,5 @@ The evaluation script and results are included in the notebook:
 📄 rule_based_methods.ipynb
 
 📉 Conclusion:
-The rule-based method performs well in controlled environments such as live webcam feeds, where lighting is stable and gestures are clearly posed. However, when applied to the HaGRID dataset, the method fails to generalize due to:
-
-Variability in hand sizes and orientations
-
-Background clutter
-
-Lighting inconsistencies
-
-Occlusions and motion blur
-
-This experiment demonstrates the limitations of rule-based approaches for real-world gesture recognition. For more robust and scalable solutions, machine learning or deep learning-based models are recommended.
+The rule-based method performs well in controlled environments such as live webcam feeds, where lighting is stable and gestures are clearly posed. However, when applied to the HaGRID dataset, the method failed is most of the gestures.
 
