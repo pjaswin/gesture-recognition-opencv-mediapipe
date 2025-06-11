@@ -33,7 +33,7 @@ We evaluated the rule-based hand gesture recognition method using the HaGRID (HA
 The evaluation script and results are included in the notebook:
 📄 rule_based_methods.ipynb
 
-📉 Conclusion
+📉 Conclusion:
 The rule-based method performs well in controlled environments such as live webcam feeds, where lighting is stable and gestures are clearly posed. However, when applied to the HaGRID dataset, the method fails to generalize due to:
 
 Variability in hand sizes and orientations
