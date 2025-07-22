@@ -1,6 +1,6 @@
 # Hand Gesture Recognition using OpenCV and MediaPipe
 
-This project uses [MediaPipe](https://google.github.io/mediapipe/) and [OpenCV](https://opencv.org/) to recognize hand gestures from a webcam feed in real time — no machine learning training required!
+This project uses [MediaPipe](https://github.com/google-ai-edge/mediapipe) and [OpenCV](https://opencv.org/) to recognize hand gestures from a webcam feed in real time — no machine learning training required!
 
 ## 📸 Demo
 
